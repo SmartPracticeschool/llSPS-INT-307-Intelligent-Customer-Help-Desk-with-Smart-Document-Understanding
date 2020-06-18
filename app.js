@@ -1,3 +1,5 @@
+//app.js
+
 require('dotenv').config({ silent: true });
 
 const server = require('./server');
