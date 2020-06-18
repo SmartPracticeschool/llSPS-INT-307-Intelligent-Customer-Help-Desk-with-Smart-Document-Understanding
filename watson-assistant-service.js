@@ -1,3 +1,5 @@
+//watson-assistant-service.js
+
 const AssistantV1 = require('ibm-watson/assistant/v1');
 const { getAuthenticatorFromEnvironment } = require('ibm-watson/auth');
 
