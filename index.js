@@ -1,3 +1,5 @@
+//index.js
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import { List, Image } from 'semantic-ui-react';
